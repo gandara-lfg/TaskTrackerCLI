@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Finish tasker project",
+    "status": "In Progress",
+    "createdAt": "2026-01-15T11:32:43.997723",
+    "updatedAt": "2026-01-15T13:01:29.933640"
+  },
+  {
+    "id": 3,
+    "description": "Go to the gym",
+    "status": "To do",
+    "createdAt": "2026-01-16T09:37:53.018113",
+    "updatedAt": "2026-01-16T09:37:53.018120"
+  },
+  {
+    "id": 4,
+    "description": "Wash Dishes",
+    "status": "To do",
+    "createdAt": "2026-01-16T09:38:04.298966",
+    "updatedAt": "2026-01-16T09:38:04.298975"
+  },
+  {
+    "id": 5,
+    "description": "Buy Groceries",
+    "status": "To do",
+    "createdAt": "2026-01-16T09:40:29.445089",
+    "updatedAt": "2026-01-16T09:40:29.445094"
+  }
+]
